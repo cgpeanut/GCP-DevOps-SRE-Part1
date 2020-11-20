@@ -1,7 +1,8 @@
 # Google Certified Professional DevOos Engineer/SRE 
 GCP-DevOps-SRE-Part1
 
-<img src="https://github.com/cgpeanut/GCP-DevOps-SRE-Part1/blob/master/images/cloud.png" alt="IMAGE ALT TEXT HERE" width="35" height="25" /></a>
+GCP Exams Schedule:
+<img src="https://github.com/cgpeanut/GCP-DevOps-SRE-Part1/blob/master/images/gcp-exams.png" alt="IMAGE ALT TEXT HERE" width="35" height="25" /></a>
 
 Chapter 1: 
 - Hello
