@@ -19,3 +19,6 @@ Chapter 1:
      Purpose of Path:
           Learn: To train you to become a Professional Cloud DevOps Engineer/SRE
           Show: To demonstrate your new capability by pass Google's PCDOE/SRE Exam
+- Whizlab - Practice Tests:
+     Google Cloud Certified Professional Data Engineer
+     Google Cloud Certified Professional Developer
