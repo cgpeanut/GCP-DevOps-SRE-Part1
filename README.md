@@ -50,7 +50,8 @@ Chapter 1:
 Chapter 2:
 - Certification Exam Overview
      Professional Cloud DevOps Engineer (Cert Exan Dec 18 8:30AM Onsite)
-          - A professional Cloud DevOps Engineer is responsible for efficient development operations that can balance service reliability and deliver speed. They are skilled at using the Google Cloud Platform to build software delivery pipelines, deploy and monitor services, and manage and learn from incidents. 
+          - A professional Cloud DevOps Engineer is responsible for efficient development operations that can balance service reliability and deliver speed. They are skilled at using the Google Cloud Platform to build software delivery pipelines, deploy and monitor services, and manage and learn from incidents.
+
      The Professional Cloud DevOps Engineer Exam assesses your ability to:
           - Apply site reliability engineering principles to a service 
           - Optimize service performance
@@ -59,4 +60,7 @@ Chapter 2:
           -  Manage service incidents
 
 ```
-```
+- Exam Guide:
+
+<a href="https://landing.google.com/sre/books/"  target="_blank"><img src="https://github.com/cgpeanut/GCP-DevOps-SRE-Part1/blob/master/images/sre-books" alt="IMAGE ALT TEXT HERE" width="350" height="250" /></a> GCP-DevOps-SRE-Part2 
+
