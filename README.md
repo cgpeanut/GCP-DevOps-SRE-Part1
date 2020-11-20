@@ -24,12 +24,12 @@ Chapter 1:
           Learn: To train you to become a Professional Cloud DevOps Engineer/SRE
           Show: To demonstrate your new capability by pass Google's PCDOE/SRE Exam
 
-               Job/Role
-               SRE System
-Understand     CI/CD and the tools to implement it
-               Operations in Google Cloud and the tools to manage them
-               How to put it all together and pass the exam
-
-
+- Understand
+     - Job/Role
+     - SRE System
+     - CI/CD and the tools to implemenmt it 
+     - Operations in the Google Cloud and the tools to manage them
+     - How to put it all together andpass the exam
+  
 - Class SRE Implements DevOps 
 - SRE is a specific way to do DevOps
