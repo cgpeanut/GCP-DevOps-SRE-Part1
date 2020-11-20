@@ -46,7 +46,7 @@ Chapter 1:
 - Structure - BOPT
      - Business 
      - Organizational
-
+```
 Chapter 2:
 - Certification Exam Overview
      Professional Cloud DevOps Engineer (Cert Exan Dec 18 8:30AM Onsite)
@@ -57,3 +57,6 @@ Chapter 2:
           - Implement service monitoring sdtrategies
           - Build and implement VCI/CD pipelines service
           -  Manage service incidents
+
+```
+```
