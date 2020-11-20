@@ -39,11 +39,22 @@ Chapter 1:
   
 - Class SRE Implements DevOps
 - SRE is a specific way to do DevOps
-- Expected Background -  ACE - yes associate cloud engineer 
+- Expected Background - ACE - yes associate cloud engineer 
 - PCA - Professional cloud leve architect
 - Dev(or Ops) real-world experience developing or running systems 
 
 - Structure - BOPT
      - Business 
      - Organizational
-     - 
+
+Chapter 2:
+
+- Certification Exam Overview
+     Professional Cloud DevOps Engineer (Cert Exan Dec 18 8:30AM Onsite)
+          - A professional Cloud DevOps Engineer is responsible for efficient development operations that can balance service reliability and deliver speed. They are skilled at using the Google Cloud Platform to build software delivery pipelines, deploy and monitor services, and manage and learn from incidents. 
+     The Professional Cloud DevOps Engineer Exam assesses your ability to:
+          - Apply site reliability engineering principles to a service 
+          - Optimize service performance
+          - Implement service monitoring sdtrategies
+          - Build and implement VCI/CD pipelines service
+          -  Manage service incidents
