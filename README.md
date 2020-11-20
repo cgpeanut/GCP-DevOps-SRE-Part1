@@ -57,11 +57,11 @@ Chapter 2:
           - Optimize service performance
           - Implement service monitoring sdtrategies
           - Build and implement VCI/CD pipelines service
-          -  Manage service incidents
+          - Manage service incidents
 
 ```
 - Exam Guide:
 
-<a href="https://landing.google.com/sre/books/" target="blank"><img src="https://github.com/cgpeanut/GCP-DevOps-SRE-Part1/blob/master/images/sre-books.png" alt="IMAGE ALT TEXT HERE" width="350" height="350" /></a> /></a> 
+<a href="https://landing.google.com/sre/books/" target="blank"><img src="https://github.com/cgpeanut/GCP-DevOps-SRE-Part1/blob/master/images/sre-books.png" alt="IMAGE ALT TEXT HERE" width="150" height="350" /></a> /></a> 
 
 
