@@ -62,6 +62,6 @@ Chapter 2:
 ```
 - Exam Guide:
 
-<a href="https://landing.google.com/sre/books/" target="blank"><img src="https://github.com/cgpeanut/GCP-DevOps-SRE-Part1/blob/master/images/sre-books.png" alt="IMAGE ALT TEXT HERE" width="350" height="250" /></a> /></a> 
+<a href="https://landing.google.com/sre/books/" target="blank"><img src="https://github.com/cgpeanut/GCP-DevOps-SRE-Part1/blob/master/images/sre-books.png" alt="IMAGE ALT TEXT HERE" width="350" height="350" /></a> /></a> 
 
 
