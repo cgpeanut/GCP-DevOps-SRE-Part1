@@ -1,5 +1,6 @@
-# Google Certified Professional DevOos Engineer/SRE 
+# Google Certified Professional DevOos Engineer/SRE
 GCP-DevOps-SRE-Part1
+Google Professional Cloud DevOps Engineer Certification Path Introduction [GCP DevOps Engineer Track Part 1]
 
 GCP Exams Schedule:
 <img src="https://github.com/cgpeanut/GCP-DevOps-SRE-Part1/blob/master/images/gcp-exams.png" alt="IMAGE ALT TEXT HERE" width="450" height="250" /></a>
@@ -27,9 +28,17 @@ Chapter 1:
 - Understand
      - Job/Role
      - SRE System
-     - CI/CD and the tools to implemenmt it 
+     - CI/CD and the tools to implemenmt it
      - Operations in the Google Cloud and the tools to manage them
      - How to put it all together and pass the exam
   
-- Class SRE Implements DevOps 
+- Class SRE Implements DevOps
 - SRE is a specific way to do DevOps
+- Expected Background -  ACE - yes associate cloud engineer 
+- PCA - Professional cloud leve architect
+- Dev(or Ops) real-world experience developing or running systems 
+
+- Structure - BOPT
+     - Business 
+     - Organizational
+     - 
