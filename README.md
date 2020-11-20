@@ -3,6 +3,7 @@ GCP-DevOps-SRE-Part1
 
 Google Professional Cloud DevOps Engineer Certification Path Introduction [GCP DevOps Engineer Track Part 1]
 
+
 GCP Exams Schedule:
 <img src="https://github.com/cgpeanut/GCP-DevOps-SRE-Part1/blob/master/images/gcp-exams.png" alt="IMAGE ALT TEXT HERE" width="450" height="250" /></a>
 
