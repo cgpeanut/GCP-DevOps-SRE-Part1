@@ -27,7 +27,8 @@ Chapter 1:
                Job/Role 
 Understand     SRE System
                CI/CD and the tools to implement it
-               perations in Google Cloud and the tools to manage them
+               Operations in Google Cloud and the tools to manage them
+               How to put it all together and pass the exam
                
 - Class SRE Implements DevOps 
 - SRE is a specific way to do DevOps
