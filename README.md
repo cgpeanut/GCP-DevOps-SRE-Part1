@@ -1,9 +1,6 @@
 # Google Certified Professional DevOos Engineer/SRE 
-Whizlab - Practice Tests
-     Google Cloud Certified Professional Data Engineer
-     Google Cloud Certified Professional Developer
+GCP-DevOps-SRE-Part1
 
-GCP-DevOps-SRE-Part1 
 <a href="https://github.com/cgpeanut/GCP-DevOps-SRE-Part1/blob/master/images/gcp-exams.png"/></a>
 
 Chapter 1: 
