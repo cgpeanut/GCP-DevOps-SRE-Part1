@@ -64,6 +64,8 @@ Chapter 2:
 
 - Exam Guide:
 
+    <a href="https://aws.amazon.com/blogs/mt/the-virtues-of-yaml-cloudformation-and-using-cloudformation-designer-to-convert-json-to-yaml/"  target="_blank"><img src="https://github.com/cgpeanut/aws-cloudformation/blob/main/images/cloud.png" alt="IMAGE ALT TEXT HERE" width="35" height="25" /></a
+
 Chapter 3: Foundation and Concepts
 - What is (the Business of) Software Development ?
   - DevOps and SRE are about ALIGNMENT between Dev and Ops - Of Dev and Ops with the business.
