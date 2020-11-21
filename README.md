@@ -48,6 +48,9 @@ Chapter 1:
      - Organizational
 
 Chapter 2:
+
+<a href="https://landing.google.com/sre/books/" target="blank"><img src="https://github.com/cgpeanut/GCP-DevOps-SRE-Part1/blob/master/images/gcp-exams.png" alt="IMAGE ALT TEXT HERE" width="450" height="250" /></a>
+
 - Certification Exam Overview
      Professional Cloud DevOps Engineer (Cert Exan Dec 18 8:30AM Onsite)
           - A professional Cloud DevOps Engineer is responsible for efficient development operations that can balance service reliability and deliver speed. They are skilled at using the Google Cloud Platform to build software delivery pipelines, deploy and monitor services, and manage and learn from incidents.
@@ -60,10 +63,6 @@ Chapter 2:
           - Manage service incidents
 
 - Exam Guide:
-
-<a href="https://landing.google.com/sre/books/" target="blank"><img src="https://github.com/cgpeanut/GCP-DevOps-SRE-Part1/blob/master/images/sre-books.png" alt="IMAGE ALT TEXT HERE" width="450" height="250" /></a>
-
-<a href="https://landing.google.com/sre/books/" target="blank"><img src="https://github.com/cgpeanut/GCP-DevOps-SRE-Part1/blob/master/images/gcp-exams.png" alt="IMAGE ALT TEXT HERE" width="450" height="250" /></a>
 
 Chapter 3: Foundation and Concepts
 - What is (the Business of) Software Development ?
