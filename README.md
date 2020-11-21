@@ -92,14 +92,17 @@ Chapter 3: Foundation and Concepts
                1. Valus
                2. Cost
                3. RISK!
-          Change upon, change upon, change upon change, where is change has value, cost and Risk is the essence of software development.
 
       - Software Devlopement is a Team Sport - Every Person is on the team
                                              - the team needs to work together
-                                             - integrating work from multiple people is key (Hence Continous integration - The CI in CI/CD) 
+                                             - integrating work from multiple people is key (Hence Continous  integration - The CI in CI/CD) 
+
 
 - What is the High-Level of Dev Process Data Flow ?
      - code base 
+
+<img src="https://github.com/cgpeanut/GCP-DevOps-SRE-Part1/blob/master/images/date-flow.png" alt="IMAGE ALT TEXT HERE" width="450" height="250" /></a>
+
 
 
 
