@@ -82,8 +82,24 @@ Chapter 3: Foundation and Concepts
      ----- = ROI, trying to get as much value as posible for less cost!
      Cost 
 
+- How do you achiev Value in software ?
+     - Joel Spolsky - A 50%-good solution that people actually have solves more problems and survives longer than a 99% solution that nobody has...
+     - Shipping is a feature. A really important feature. Your product must have it.
 
+- What's Deltas ?
+      - The fundamental unit of software developement is a code change
+          Every Change has:
+               1. Valus
+               2. Cost
+               3. RISK!
+          Change upon, change upon, change upon change, where is change has value, cost and Risk is the essence of software development.
 
+      - Software Devlopement is a Team Sport - Every Person is on the team
+                                             - the team needs to work together
+                                             - integrating work from multiple people is key (Hence Continous integration - The CI in CI/CD) 
+
+- What is the High-Level of Dev Process Data Flow ?
+     - code base 
 
 
 
