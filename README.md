@@ -62,8 +62,6 @@ Chapter 2:
 
 - Exam Guide:
 
-<a href="https://landing.google.com/sre/books/" target="blank"><img src="https://github.com/cgpeanut/GCP-DevOps-SRE-Part1/blob/master/images/sre-books.png" alt="IMAGE ALT TEXT HERE" width="450" height="250" /></a>
-
 Chapter 3: Foundation and Concepts
 - What is (the Business of) Software Development ?
   - DevOps and SRE are about ALIGNMENT between Dev and Ops - Of Dev and Ops with the business.
@@ -73,11 +71,14 @@ Chapter 3: Foundation and Concepts
           - sales/marketing - attracting new clients to briong more revenue (company website)
           - client support - fulfilling obligations to clients and keeping them happy
           - supplier integration - interfacing or integrating with partners and suppliers, to run the business
-          - internal automation - improving employee efficiency and happines
+          - internal automation - improving employee efficiency and happiness
+      -  Cost of developing software:
+          - Initial Development - planning and building the very first version of the system
+          - Operations - That the system needs to keep running and those computers need to stay secure
+          - Maintenace (Dev) - Packages need to be updated and any discovered security issues must be fixed
+          - Enhancements (Dev) - Running a system invariably offers news infor or oppurtunitues for enhancement
 
 
-
-     
 
 
 
