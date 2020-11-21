@@ -66,6 +66,6 @@ Chapter 2:
 
 Chapter 3: Foundation and Concepts
 - What is (the Business of) Software Development ?
-  - DevOps and SRE are about `ALIGNMENT` between Dev and Ops - Of Dev and Ops with the business.
+  - DevOps and SRE are about ALIGNMENT between Dev and Ops - Of Dev and Ops with the business.
   - Sofware is always an INVESTMENT  Retunred Value > Total Cost
       - Return on Investment (ROI) - 
