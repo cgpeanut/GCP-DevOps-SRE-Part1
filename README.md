@@ -9,6 +9,7 @@ Patra Corp DevOps Engineer Interview -> Tuesday Dec 01, 2020 3:30 PM - 4:30 PM C
 
 GCP Exams Schedule:
 <img src="https://github.com/cgpeanut/GCP-DevOps-SRE-Part1/blob/master/images/gcp-exams.png" alt="IMAGE ALT TEXT HERE" width="450" height="250" /></a>
+<a href="https://landing.google.com/sre/books/" target="blank"><img src="https://github.com/cgpeanut/GCP-DevOps-SRE-Part1/blob/master/images/sre-books.png" alt="IMAGE ALT TEXT HERE" width="450" height="250" /></a>
 
 Chapter 1: 
 - Hello
@@ -60,6 +61,7 @@ Chapter 2:
           - Manage service incidents
 
 - Exam Guide:
+
 <a href="https://landing.google.com/sre/books/" target="blank"><img src="https://github.com/cgpeanut/GCP-DevOps-SRE-Part1/blob/master/images/sre-books.png" alt="IMAGE ALT TEXT HERE" width="450" height="250" /></a>
 
 Chapter 3: Foundation and Concepts
