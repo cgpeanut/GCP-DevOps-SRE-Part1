@@ -36,7 +36,6 @@ Chapter 1:
      - CI/CD and the tools to implemenmt it
      - Operations in the Google Cloud and the tools to manage them
      - How to put it all together and pass the exam
-  
 - Class SRE Implements DevOps
 - SRE is a specific way to do DevOps
 - Expected Background - ACE - yes associate cloud engineer
@@ -49,8 +48,6 @@ Chapter 1:
 
 Chapter 2:
 
-<a href="https://landing.google.com/sre/books/" target="blank"><img src="https://github.com/cgpeanut/GCP-DevOps-SRE-Part1/blob/master/images/gcp-exams.png" alt="IMAGE ALT TEXT HERE" width="450" height="250" /></a>
-
 - Certification Exam Overview
      Professional Cloud DevOps Engineer (Cert Exan Dec 18 8:30AM Onsite)
           - A professional Cloud DevOps Engineer is responsible for efficient development operations that can balance service reliability and deliver speed. They are skilled at using the Google Cloud Platform to build software delivery pipelines, deploy and monitor services, and manage and learn from incidents.
@@ -62,9 +59,8 @@ Chapter 2:
           - Build and implement VCI/CD pipelines service
           - Manage service incidents
 
-- Exam Guide:
-
-    <a href="https://aws.amazon.com/blogs/mt/the-virtues-of-yaml-cloudformation-and-using-cloudformation-designer-to-convert-json-to-yaml/"  target="_blank"><img src="https://github.com/cgpeanut/aws-cloudformation/blob/main/images/cloud.png" alt="IMAGE ALT TEXT HERE" width="35" height="25" /></a
+     - Exam Guide:
+<a href="https://landing.google.com/sre/books/" target="blank"><img src="https://github.com/cgpeanut/GCP-DevOps-SRE-Part1/blob/master/images/gcp-exams.png" alt="IMAGE ALT TEXT HERE" width="450" height="250" /></a>
 
 Chapter 3: Foundation and Concepts
 - What is (the Business of) Software Development ?
