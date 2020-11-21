@@ -49,23 +49,35 @@ Chapter 1:
 Chapter 2:
 
 - Certification Exam Overview
-     Professional Cloud DevOps Engineer (Cert Exan Dec 18 8:30AM Onsite)
+     - Professional Cloud DevOps Engineer (Cert Exan Dec 18 8:30AM Onsite)
           - A professional Cloud DevOps Engineer is responsible for efficient development operations that can balance service reliability and deliver speed. They are skilled at using the Google Cloud Platform to build software delivery pipelines, deploy and monitor services, and manage and learn from incidents.
 
-     The Professional Cloud DevOps Engineer Exam assesses your ability to:
+     - The Professional Cloud DevOps Engineer Exam assesses your ability to:
           - Apply site reliability engineering principles to a service
           - Optimize service performance
           - Implement service monitoring sdtrategies
           - Build and implement VCI/CD pipelines service
           - Manage service incidents
-```
-     - Exam Guide:
-```
-<a href="https://landing.google.com/sre/books/" target="blank"><img src="https://github.com/cgpeanut/GCP-DevOps-SRE-Part1/blob/master/images/gcp-exams.png" alt="IMAGE ALT TEXT HERE" width="450" height="250" /></a>
-```
+
+- Exam Guide:
+<a href="https://landing.google.com/sre/books/" target="blank"><img src="https://github.com/cgpeanut/GCP-DevOps-SRE-Part1/blob/master/images/sre-books.png" alt="IMAGE ALT TEXT HERE" width="450" height="250" /></a>
 
 Chapter 3: Foundation and Concepts
 - What is (the Business of) Software Development ?
   - DevOps and SRE are about ALIGNMENT between Dev and Ops - Of Dev and Ops with the business.
   - Sofware is always an INVESTMENT  Retunred Value > Total Cost
-      - Return on Investment (ROI) -
+      - Return on Investment (ROI) 
+      - In a business software's main purpose is to attract value
+          - sales/marketing - attracting new clients to briong more revenue (company website)
+          - client support - fulfilling obligations to clients and keeping them happy
+          - supplier integration - interfacing or integrating with partners and suppliers, to run the business
+          - internal automation - improving employee efficiency and happines
+
+
+
+     
+
+
+
+
+
