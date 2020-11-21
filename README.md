@@ -63,6 +63,8 @@ Chapter 2:
 
 <a href="https://landing.google.com/sre/books/" target="blank"><img src="https://github.com/cgpeanut/GCP-DevOps-SRE-Part1/blob/master/images/sre-books.png" alt="IMAGE ALT TEXT HERE" width="450" height="250" /></a>
 
+<a href="https://landing.google.com/sre/books/" target="blank"><img src="https://github.com/cgpeanut/GCP-DevOps-SRE-Part1/blob/master/images/gcp-exams.png" alt="IMAGE ALT TEXT HERE" width="450" height="250" /></a>
+
 Chapter 3: Foundation and Concepts
 - What is (the Business of) Software Development ?
   - DevOps and SRE are about ALIGNMENT between Dev and Ops - Of Dev and Ops with the business.
