@@ -72,12 +72,15 @@ Chapter 3: Foundation and Concepts
           - client support - fulfilling obligations to clients and keeping them happy
           - supplier integration - interfacing or integrating with partners and suppliers, to run the business
           - internal automation - improving employee efficiency and happiness
-      -  Cost of developing software:
+      - Cost of developing software:
           - Initial Development - planning and building the very first version of the system
           - Operations - That the system needs to keep running and those computers need to stay secure
           - Maintenace (Dev) - Packages need to be updated and any discovered security issues must be fixed
-          - Enhancements (Dev) - Running a system invariably offers news infor or oppurtunitues for enhancement
+          - Enhancements (Dev) - Running a system invariably offers news infor or opportunitues for enhancement
 
+     Value
+     ----- = ROI, trying to get as much value as posible for less cost!
+     Cost 
 
 
 
