@@ -106,6 +106,6 @@ Chapter 3: Foundation and Concepts
 ```
 ```
 ```
-<img src="https://github.com/cgpeanut/GCP-DevOps-SRE-Part1/blob/master/images/gcp-exams.png" alt="IMAGE ALT TEXT HERE" width="450" height="250" /></a>
+<img src="https://github.com/cgpeanut/GCP-DevOps-SRE-Part1/blob/master/images/data-flow.png" alt="IMAGE ALT TEXT HERE" width="450" height="250" /></a>
 ```
 ```
