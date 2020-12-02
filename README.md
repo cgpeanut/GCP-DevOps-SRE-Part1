@@ -89,7 +89,7 @@ Chapter 3: Foundation and Concepts
 - What's Deltas ?
       - The fundamental unit of software developement is a code change
           Every Change has:
-               1. Valus
+               1. Value
                2. Cost
                3. RISK!
 
