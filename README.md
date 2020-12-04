@@ -4,8 +4,7 @@ GCP-DevOps-SRE-Part1
 Google Professional Cloud DevOps Engineer Certification Path Introduction 
 [GCP DevOps Engineer Track Part 1]
 
-IDEMIA Sr. SRE Interview -> Monday, November 30, 2020 1:00 PM-1:45 PM CST
-Patra Corp DevOps Engineer Interview -> Tuesday Dec 01, 2020 3:30 PM - 4:30 PM CST
+ USAA Cloud (GCP) Security Engineer - TEKsystems 12/8 at 9:30am Central - Tuesday
 
 GCP Exams Schedule:
 <img src="https://github.com/cgpeanut/GCP-DevOps-SRE-Part1/blob/master/images/gcp-exams.png" alt="IMAGE ALT TEXT HERE" width="450" height="250" /></a>
